@@ -6,5 +6,5 @@ Laboraion 3 är uppdelat i två delar:
 2. Det 2. Skapa ett nytt repository i Github samt en README-fil med markdown som beskriver uppgiften.
 ### Redovisning
 Jag kommer även redovisa mitt repository. Detta kommer jag göra genom att dela följande länk:
-_Denna länk kan du använda för att klona repot_
 https://github.com/emhe2504/Laboration3.git
+_(Denna länk kan du använda för att klona repot)_
