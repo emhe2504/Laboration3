@@ -9,4 +9,4 @@ Jag kommer även redovisa mitt repository. Detta kommer jag göra genom att dela
 * **Länk till repo:** git clone https://github.com/emhe2504/Laboration3.git
 * **Länk direkt in i README-fil:** git clone https://github.com/emhe2504/Laboration3/blob/320790d316ded51debf596e9785d1846212db9ec/README.md
   
-_(Någon av dessa länkar kan du använda för att klona repot)_
+_(Någon av dessa länkar kan du använda för att klona repot eller komma till README-fil)_
