@@ -7,3 +7,4 @@ Laboraion 3 är uppdelat i två delar:
 ### Redovisning
 Jag kommer även redovisa mitt repository. Detta kommer jag göra genom att dela följande länk:
 _Denna länk kan du använda för att klona repot_
+https://github.com/emhe2504/Laboration3.git
