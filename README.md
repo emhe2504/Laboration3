@@ -5,7 +5,7 @@ Laboration 3 är uppdelat i två delar:
 1. Del 1. Svara på frågor om Git i ett rapport-format.
 2. Det 2. Skapa ett nytt repository i Github samt en README-fil med markdown som beskriver uppgiften.
 ### Redovisning
-Jag kommer även redovisa mitt repository. Detta kommer jag göra genom att dela följande länk:
-https://github.com/emhe2504/Laboration3.git
-
+Jag kommer även redovisa mitt repository. Detta kommer jag göra genom att dela följande länkar:
+* https://github.com/emhe2504/Laboration3.git
+* https://github.com/emhe2504/Laboration3/blob/320790d316ded51debf596e9785d1846212db9ec/README.md
 _(Denna länk kan du använda för att klona repot)_
